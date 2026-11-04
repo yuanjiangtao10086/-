@@ -1,0 +1,5 @@
+﻿  minpl5.cpp
+  源.cpp
+  正在生成代码...
+E:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB8084: “CL.exe”的结构化输出无效: 无法分析 JsonRpc 通知:“Cannot transcode invalid UTF-8 JSON text to UTF-16 string.”。
+E:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB6006: “CL.exe”已退出，代码为 2。
